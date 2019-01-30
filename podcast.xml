@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<channel>
+<link>https://staff.washington.edu/perryyee/podcasts/MakeMono.mp3</link>
+<language>en-us</language>
+<copyright>&#xA9;2010</copyright>
+<webMaster>perryyee@uw.edu (Perry)</webMaster>
+<managingEditor>perryyee@uw.edu (Perry)</managingEditor>
+<image>
+<url>https://staff.washington.edu/perryyee/podcasts/make.png</url>
+<title>Make, a podcast about death</title>
+<link>http://libstory.github.io</link>
+</image>
+<itunes:owner>
+<itunes:name>Perry Yee</itunes:name>
+<itunes:email>perryyee@uw.edu</itunes:email>
+</itunes:owner>
+<itunes:category text="Education">
+<itunes:category text="Higher Education" />
+</itunes:category>
+<itunes:keywords>hawaiian, death, dying, grieving</itunes:keywords>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="https://staff.washington.edu/perryyee/podcasts/make.png" />
+<atom:link href="https://kekuanoo.github.io/podcast.xml" rel="self" type="application/rss+xml" />
+<pubDate>Mon, 28 Jan 2019 16:00:00 PST</pubDate>
+<title>Make, a podcast about death</title>
+<itunes:author>Storytelling Fellows</itunes:author>
+<description>Welcome to Make. That's pronounced "mah-keh" - the Hawaiian word for "death." This podcast series explores death and times of dying. What do you remember about how your lived ones died?</description>
+<itunes:summary>Welcome to Make. That's pronounced "mah-keh" - the Hawaiian word for "death." This podcast series explores death and times of dying. What do you remember about how your lived ones died?</itunes:summary>
+<itunes:subtitle>Remembering the death of your loved ones.</itunes:subtitle>
+<lastBuildDate>Mon, 28 Jan 2019 16:00:00 PST</lastBuildDate>
+<item>
+<title>Episode 1: The Lead Up</title>
+<description>This episode covers the beginning of the end. My dad, Anthony Yee, passed away on July 11th, 2018. This is the lead up to that day.</description>
+<itunes:summary>This episode covers the beginning of the end. My dad, Anthony Yee, passed away on July 11th, 2018. This is the lead up to that day.</itunes:summary>
+<itunes:subtitle>How did Anthony Yee die? The lead up to my dad's death.</itunes:subtitle>
+<itunesu:category itunesu:code="1302" />
+<enclosure url="https://staff.washington.edu/perryyee/podcasts/MakeMono.mp3" type="audio/mpeg" length="3201" />
+<guid>https://staff.washington.edu/perryyee/podcasts/MakeMono.mp3</guid>
+<itunes:duration>53:21</itunes:duration>
+<pubDate>Mon, 28 Jan 2019 16:00:00 PST</pubDate>
+</item>
+</channel>
+</rss>
